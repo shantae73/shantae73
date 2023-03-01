@@ -1,0 +1,277 @@
+<mjml>
+  <mj-body background-color="white">
+    <mj-section>
+      <mj-column>
+        <mj-image
+          width="120px"
+          src="https://ci5.googleusercontent.com/proxy/5jNkKYQeaX8czKtirXEBhsGLM-uLqKHk0dsmVDsX2SIs0WVZ9AyvUo8hSjD9WN9NLzCX2xB9-ZQTZJrsIF4T-TDOJdxFQIAHcuKKp0oX1J73dtATyYuJr1N8nY290J-hwRLi-h5Y=s0-d-e1-ft#https://bv-email-assets.s3.amazonaws.com/PeopleLooker/Emails/Newsletter/pl-logo.png"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="37px" background-color="#f0fdfc">
+      <mj-column>
+        <mj-image
+          width="60px"
+          src="https://ci3.googleusercontent.com/proxy/KGWCp4CpXRFaZksDyHBqWMKw-jpPe2yxO3mCcy8qXkpFLpSnC24N8lH3m43srH9lCHcRL35bDTpXFkNkmUJEjCNPH2t0opcaJWxhMd-jKjgrAQfES_ZtKs4M8NXTBbFetlpVXDBVJ9-I8h0ulhFR=s0-d-e1-ft#https://bv-email-assets.s3.amazonaws.com/PeopleLooker/Emails/Newsletter/header-bell-icon.png"
+        ></mj-image>
+
+        <mj-button
+          background-color="#f0fdfc"
+          font-family="Arial"
+          color="black"
+          font-weight="bold"
+          font-size="26px"
+          href="https://click.email.peoplelooker.com/?qs=cc562d7032af0adad3401b607fd1a68d1c1ffb99e63fa756fac22979e6e74bb1117b75c38eef734656bd86ff30818afd941ed26a804928c0"
+        >
+          PeopleLooker Blog
+        </mj-button>
+
+        <mj-text
+          padding-top="17px"
+          padding-left="76px"
+          font-family="Arial"
+          font-size="15px"
+          >Get the latest tips, insights and stories you might have missed,
+          curated by</mj-text
+        >
+
+        <mj-text
+          font-family="Arial"
+          padding-top="0px"
+          padding-left="240px"
+          font-size="15px"
+        >
+          PeopleLooker editors.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      padding-bottom="0px"
+      background-color="#ffffff"
+      full-width="full-width"
+    >
+      <mj-column vertical-align="top" width="300px">
+        <mj-image
+          padding="14px"
+          src="https://ci6.googleusercontent.com/proxy/tC7VD_8H_WFSjHK3cFvCc_o0Twk6PXHqmUsKKRotIz2iXRyx8YaB3q5vnl1WeukpQDPO3am1FXFfLqi34qE_r70peH8zANUKWxDtXRbkZy2PjJmoWMRlItCz4u0VcnOpofJjwEPIIfVOurcFN_jnCayNnP58cKOYHENeowcZ-Q=s0-d-e1-ft#https://image.email.peoplelooker.com/lib/fe3215707564077f721d77/m/1/b8ff78b0-3e0e-4e2a-96a1-2fe73584a34f.jpg"
+        ></mj-image>
+        <mj-button
+          padding-bottom="0px"
+          font-family="Arial"
+          align="center"
+          font-weight="bold"
+          color="#48AB99"
+          font-size="18px"
+          padding-bottom="30px"
+          background-color="white"
+          href="https://www.peoplelooker.com/blog/is-mercari-safe/?utm_source=peoplelooker&utm_medium=email&utm_campaign=Newsletter-August8th_IsMercariSafe-PL-PROMO-P33-V2"
+          >Is Mercari Safe?</mj-button
+        >
+
+        <mj-text
+          padding-bottom="0px"
+          padding-top="0px"
+          font-family="Arial"
+          line-height="22px"
+          >Mercari almost seems too good to be true, but is it safe? Get expert
+          tips for how to buy and sell safely on Mercari without getting
+          scammed.</mj-text
+        >
+      </mj-column>
+
+      <mj-column vertical-align="top" width="300px">
+        <mj-image
+          padding="14px"
+          src="https://ci3.googleusercontent.com/proxy/VYOcdSHZJgs5ggx1ukmu3rWUHmCjDhFYOMfjOMKPMGSfL4b_9uDpXF4ASIzQuzWdkDv8ce_lSSkftaEIGAfcAUkfXfF-MDNA1M8mtk6aMuQ_pgf2Wz4cPMAUSaX9LOGFx3PwtnmPWDcXdPrmrze6tpHFr-xXqVJrIGH8p3d-9A=s0-d-e1-ft#https://image.email.peoplelooker.com/lib/fe3215707564077f721d77/m/1/a09d4476-6a33-4e4c-8cca-fe8ce570f6b0.jpg"
+        ></mj-image>
+
+        <mj-button
+          padding-bottom="6px"
+          align="center"
+          font-weight="bold"
+          color="#48AB99"
+          font-size="18px"
+          padding-bottom="30px"
+          background-color="white"
+          href="https://www.peoplelooker.com/blog/is-mercari-safe/?utm_source=peoplelooker&utm_medium=email&utm_campaign=Newsletter-August8th_IsMercariSafe-PL-PROMO-P33-V2"
+          >Roaching: the Dating Phenomenon That's as Gross as it
+          Sounds!</mj-button
+        >
+
+        <mj-text
+          padding-bottom="5px"
+          padding-top="4px"
+          font-family="Arial"
+          line-height="22px"
+          >Chances are you've encountered roaching without knowing it.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-button
+          padding-top="40px"
+          font-size="17px"
+          font-weight="bold"
+          color="white"
+          background-color="#ff435d"
+          href="https://www.peoplelooker.com/blog/?utm_source=peoplelooker&utm_medium=email&utm_campaign=Newsletter-August8thReadMore-PL-PROMO-P33-V2"
+          >Read More Here</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column vertical-align="top">
+        <mj-image
+          width="65px"
+          padding-right="340px"
+          src="https://ci4.googleusercontent.com/proxy/Otvem44NKDt26fN13f-91CdY7mKD2UiFLTCEQgvFgFBjFYRTfzqJCPZUMiLFjJb-HBRKMMJiop2efTkZkYuuu020ZhgneMpJSmz-JG-1dnaS6w=s0-d-e1-ft#https://bv-email-assets.s3.amazonaws.com/EM-872/icon_speech.png"
+        ></mj-image>
+
+        <mj-text
+          font-family="Arial"
+          padding-right="90px"
+          padding="0px"
+          align="center"
+          color="#666666"
+          font-size="12px"
+          padding-bottom="30px"
+          >“The most difficult part of dating is the initial invitation.”
+        </mj-text>
+
+        <mj-text
+          font-family="Arial"
+          padding-top="0px"
+          padding-left="290px"
+          padding="0px"
+          align="center"
+          color="black"
+          font-size="11px"
+          padding-bottom="0px"
+          >– Janell Carroll –</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="30px" background-color="white">
+      <mj-column>
+        <mj-text
+          padding-left="122px"
+          color="#666666"
+          font-family="arial"
+          font-size="12px"
+          >We'll be sorry to see you go but you can unsubscribe from promotional
+          emails.</mj-text
+        >
+
+        <mj-social font-size="15px" icon-size="16px">
+          <mj-social-element name="facebook" href="https://mjml.io/">
+          </mj-social-element>
+
+          <mj-social-element name="google" href="https://mjml.io/">
+          </mj-social-element>
+
+          <mj-social-element name="twitter" href="https://mjml.io/">
+          </mj-social-element>
+
+          <mj-social-element
+            name="pinterest"
+            href="https://www.pinterest.com/peoplelooker/"
+          >
+          </mj-social-element>
+        </mj-social>
+
+        <mj-text
+          padding-top="10px"
+          padding-bottom="0px"
+          color="#666666"
+          font-family="Arial"
+          line-height="16px"
+          font-size="11px"
+          >Disclaimer: While we are constantly updating our database and
+          service, we do not represent or warrant that the results provided will
+          be 100% accurate and up to date. PeopleLooker is a database of
+          publicly available sources of information aggregated for your
+          convenience. PeopleLooker does not provide private investigator
+          service and this information should not be used for employment, tenant
+          screening, or any FCRA related purposes. PeopleLooker does not make
+          any representation or warranty as to the character or the integrity of
+          the person, business or entity that is the subject of any search
+          inquiry processed through our service. Please see our Terms and
+          Conditions regarding use of our website.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="1px" background-color="white">
+      <mj-column width="60.33333333333333%">
+        <mj-text
+          padding-left="60px"
+          font-family="Arial"
+          font-size="11px"
+          line-height="13px"
+          color="#666666"
+        >
+          PeopleLooker © 2022 48 West 38th Street ‑ 8th floor New York, NY 10018
+        </mj-text>
+
+        <mj-text
+          padding-left="60px"
+          font-family="Arial"
+          font-size="11px"
+          line-height="13px"
+          color="#666666"
+        >
+          Phone Support: 1-800-218-3309 Email Support: support@peoplelooker.com
+        </mj-text>
+
+        <mj-text
+          padding-left="60px"
+          font-family="Arial"
+          font-size="11px"
+          line-height="13px"
+          color="#666666"
+        >
+          Support hours: Open daily: 6 am - 11:30 pm EST
+        </mj-text>
+
+        <mj-text
+          padding-left="60px"
+          padding-bottom="1px"
+          font-family="Arial"
+          font-size="11px"
+          line-height="13px"
+          color="#666666"
+        >
+          PeopleLooker © 2022 All Rights Reserved
+        </mj-text>
+
+        <mj-navbar>
+          <mj-navbar-link
+            href="https://www.peoplelooker.com/terms-conditions/"
+            color="#666666"
+            font-family="Arial"
+            padding-top="1px"
+            padding-left="50px"
+            font-size="11px"
+            href="https://www.peoplelooker.com/terms-conditions/"
+            >Terms & Conditions</mj-navbar-link
+          >
+          <mj-navbar-link
+            href="https://www.peoplelooker.com/privacy-policy/"
+            color="#666666"
+            padding-right="57px"
+            font-family="Arial"
+            font-size="11px"
+            href="https://www.peoplelooker.com/privacy-policy/"
+            >privacy Policy</mj-navbar-link
+          >
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
